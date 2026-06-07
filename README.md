@@ -35,7 +35,7 @@ I specialize in building modern, fast, and responsive web applications using **R
 ### 2. SaaS Analytics Dashboard 📊
 * **Description:** A professional dashboard featuring complex data analytics, interactive charts, filtering systems, and custom layouts for tracking business metrics.
 * **Tech Stack:** Next.js, React, ChartJS.
-* **Live Demo:** [👉 View Live Site]project2-b7qf.vercel.app (https://project2-b7qf.vercel.app/)
+* **Live Demo:** [👉 View Live Site]project2-gold-eight.vercel.app (https://project2-gold-eight.vercel.app/)
 
 ### 3. DemoDay Web App ✨
 * **Description:** A highly responsive web application with optimized SEO, modern UI/UX design, and smooth user interface animations.
@@ -69,7 +69,7 @@ I specialize in building modern, fast, and responsive web applications using **R
 ### 2. SaaS Панель управления (Dashboard) 📊
 * **Описание:** Профессиональный дашборд со сложной аналитикой, интерактивными графиками, системой фильтрации данных и кастомным меню для отслеживания бизнес-метрик.
 * **Технологии:** Next.js, React, ChartJS.
-* **Демо сайта:** [👉 Открыть SaaS-панель]project2-b7qf.vercel.app (https://project2-b7qf.vercel.app/)
+* **Демо сайта:** [👉 Открыть SaaS-панель]project2-gold-eight.vercel.app (https://project2-gold-eight.vercel.app/)
 
 ### 3. Веб-сайт DemoDay ✨
 * **Описание:** Адаптивное веб-приложение с оптимизированным SEO, современным UI/UX дизайном и плавной анимацией интерфейса.
