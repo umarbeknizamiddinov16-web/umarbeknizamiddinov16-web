@@ -57,17 +57,17 @@ I specialize in building modern, fast, and responsive web applications using **R
 ### 1. Платформа недвижимости 🏠
 * **Описание:** Полноценный Full-Stack сайт для поиска и аренды недвижимости с интерактивной картой, фильтрацией объектов и динамической базой данных.
 * **Технологии:** Next.js, TailwindCSS, Neon PostgreSQL, Prisma.
-* **Ссылка на сайт:** [👉 Открыть проект недвижимости](https://vercel.app)
+* **Ссылка на сайт:** [👉 Открыть проект недвижимости]project3-lovat-alpha.vercel.app (https://project3-lovat-alpha.vercel.app/)
 
 ### 2. SaaS Панель управления (Dashboard) 📊
 * **Описание:** Профессиональный дашборд со сложной аналитикой, графиками, системой фильтрации данных и кастомным меню для отслеживания бизнес-метрик.
 * **Технологии:** Next.js, React, Карты, Графики.
-* **Ссылка на сайт:** [👉 Открыть SaaS-панель](https://vercel.app) (замените ссылку, если у project2 другой адрес)
+* **Ссылка на сайт:** [👉 Открыть SaaS-панель]project2-b7qf.vercel.app (https://project2-b7qf.vercel.app/)
 
 ### 3. Веб-сайт Demoday ✨
 * **Описание:** Адаптивный веб-сайт с оптимизированным SEO, современным UI-дизайном и плавной анимацией интерфейса.
 * **Технологии:** React / Next.js.
-* **Ссылка на сайт:** [👉 Открыть Demoday](https://vercel.app) (замените ссылку на правильную из Vercel)
+* **Ссылка на сайт:** [👉 Открыть Demoday]deploy-demo-day.vercel.app (https://deploy-demo-day.vercel.app/)
 
 ---
 
