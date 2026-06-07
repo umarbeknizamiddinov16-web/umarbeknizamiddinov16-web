@@ -24,7 +24,7 @@ I specialize in building modern, fast, and responsive web applications using **R
 ### 2. SaaS Analytics Dashboard 📊
 * **Description:** A professional dashboard featuring complex data analytics, interactive charts, filtering systems, and custom layouts for tracking business metrics.
 * **Tech Stack:** Next.js, React, ChartJS.
-* **Live Demo:** [👉 View Live Site](project2-gold-eight.vercel.app)
+* **Live Demo:** [👉 View Live Site](https://project2-gold-eight.vercel.app)
 
 ### 3. DemoDay Web App ✨
 * **Description:** A highly responsive web application with optimized SEO, modern UI/UX design, and smooth user interface animations.
