@@ -17,19 +17,17 @@ I specialize in building modern, fast, and responsive web applications using **R
 ## 🚀 Featured Projects
 
 ### 1. Real Estate Platform 🏠
-* **Description:** A Full-Stack web application for property search and rentals, featuring an interactive map, advanced filters, and dynamic cloud database storage.
-* **Tech Stack:** Next.js, TailwindCSS, Neon PostgreSQL, Prisma.
-* **Live Demo:** [👉 View Live Site](https://project3-lovat-alpha.vercel.app/)
+* **Description:** A Full-Stack web application for property search and rentals.
+* **Live Demo:** [👉 View Live Site](https://vercel.app)
 
 ### 2. SaaS Analytics Dashboard 📊
-* **Description:** A professional dashboard featuring complex data analytics, interactive charts, filtering systems, and custom layouts for tracking business metrics.
-* **Tech Stack:** Next.js, React, ChartJS.
+* **Description:** A professional dashboard featuring complex data analytics.
 * **Live Demo:** [👉 View Live Site](https://vercel.app)
 
 ### 3. DemoDay Web App ✨
-* **Description:** A highly responsive web application with optimized SEO, modern UI/UX design, and smooth user interface animations.
-* **Tech Stack:** React, Next.js, CSS Modules.
-* **Live Demo:** [👉 View Live Site](https://deploy-demo-day.vercel.app/)
+* **Description:** A highly responsive web application with optimized SEO.
+* **Live Demo:** [👉 View Live Site](https://vercel.app)
+
 
 ---
 
